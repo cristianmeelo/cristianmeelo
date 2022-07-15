@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 Procurando contribuir com ideias de design;
 - 😄 Pronouns: ele/dele;
 
-## Bem vindes! Eu sou a Cristian !
+## Bem vindes! Eu sou o Cristian !
 <div align="center">
   <a href="https://github.com/cristianmeelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianmeelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
