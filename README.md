@@ -1,9 +1,24 @@
 <!-- Welcome -->
 <header id="welcome">
 
-  # <img height="80" width="80" src="https://media.giphy.com/media/IRFQYGCokErS0/giphy.gif"> Bem Vinde / Herzlich Willkommen / Benvinguda / 歡迎 / Huānyíng / Bienvenido / Vitajte / Bienvenue / Maligayang pagdating / Tervetuloa / Fogadtatás / Welkom / Welcome / Benvenuto / Fáilte / Selamat datang / ようこそ / Yōkoso / Nau mai / Velkommen / желанный / Zhelannyy / Välkommen / Vítejte
+# <img height="80" width="80" src="https://media.giphy.com/media/IRFQYGCokErS0/giphy.gif"> Bem Vinde / Herzlich Willkommen / Benvinguda / 歡迎 / Huānyíng / Bienvenido / Vitajte / Bienvenue / Maligayang pagdating / Tervetuloa / Fogadtatás / Welkom / Welcome / Benvenuto / Fáilte / Selamat datang / ようこそ / Yōkoso / Nau mai / Velkommen / желанный / Zhelannyy / Välkommen / Vítejte
 
 </header>
+
+<!-- Bagdes Contact -->
+<div>
+  <a href="https://api.whatsapp.com/send?phone=5551986275006&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cristian-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:cristianemeelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/qajwed6y2cwreeteimn3pgmvb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@cristianmeelo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/cristianmeelo" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://pt.duolingo.com/profile/CristianMeelo" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@cristianmeelo" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+</div>
+
+<br></br>
 
 <!-- Meet me -->
 <main id="meet-me-content">
@@ -63,4 +78,3 @@
 </section>
 
 <br></br>
-
