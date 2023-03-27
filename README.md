@@ -74,6 +74,11 @@
         Como pegar dinamicamente o valor de Input no React
         </a>
       </li>
+      <li>
+        <a href="https://medium.com/@cristianmeelo/trip-em-vespasiano-corr%C3%AAa-8e74c2879e8d">
+        Trip em Vespasiano Corrêa 🎒
+        </a>
+      </li>
     </ul>
 </section>
 
