@@ -71,7 +71,7 @@
     <ul>
       <li>
         <a href="https://medium.com/@cristianmeelo como-pegar-valor-din%C3%A2micamente-de-input-no-react-1da514297b21">
-        Como pegar dinamicamente o valor de Input no React
+        Como pegar dinamicamente o valor de Input no React ⚛️
         </a>
       </li>
       <li>
