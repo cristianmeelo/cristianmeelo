@@ -79,6 +79,11 @@
         Trip em Vespasiano Corrêa 🎒
         </a>
       </li>
+      <li>
+        <a href="https://medium.com/@cristianmeelo/assim-ou-div-assado-div-%EF%B8%8F-9c10f527e362">
+        ◀▶Assim◀/▶ ou ◀div▶Assado◀/div▶ ⚛️
+        </div>
+      </li>
     </ul>
 </section>
 
