@@ -67,7 +67,7 @@
 
 <!-- Blog Section -->
 <section id="blog-section">
-  <h2>📕 Posts recentes no blog Medium:</h2>
+  <h2> Posts recentes no blog Medium 📕</h2>
     <ul>
       <li>
         <a href="https://medium.com/@cristianmeelo como-pegar-valor-din%C3%A2micamente-de-input-no-react-1da514297b21">
