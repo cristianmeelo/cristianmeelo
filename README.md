@@ -23,6 +23,7 @@ const importantLinks = {
 - [Como pegar dinamicamente o valor de Input no React ⚛️](https://medium.com/@cristianmeelo/como-pegar-valor-din%C3%A2micamente-de-input-no-react-1da514297b21)
 - [Trip em Vespasiano Corrêa 🎒](https://medium.com/@cristianmeelo/trip-em-vespasiano-corr%C3%AAa-8e74c2879e8d)
 - [<>Assim</> ou <.div>Assado</.div> ⚛️](https://medium.com/@cristianmeelo/assim-ou-div-assado-div-%EF%B8%8F-9c10f527e362)
+- [Trip em Santa Maria do Herval 🎒](https://medium.com/@cristianmeelo/trip-em-santa-maria-do-herval-5a23fffe4f9f)
 
 <!-- BLOG-POST-LIST:END -->
 
