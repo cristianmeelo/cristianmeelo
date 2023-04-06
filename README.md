@@ -24,6 +24,7 @@ const importantLinks = {
 - [Trip em Vespasiano Corrêa 🎒](https://medium.com/@cristianmeelo/trip-em-vespasiano-corr%C3%AAa-8e74c2879e8d)
 - [<>Assim</> ou <.div>Assado</.div> ⚛️](https://medium.com/@cristianmeelo/assim-ou-div-assado-div-%EF%B8%8F-9c10f527e362)
 - [Trip em Santa Maria do Herval 🎒](https://medium.com/@cristianmeelo/trip-em-santa-maria-do-herval-5a23fffe4f9f)
+- [3 Maneiras de Salvar Dados no Navegador ⚛️](https://medium.com/@cristianmeelo/3-maneiras-de-salvar-dados-no-navegador-%EF%B8%8F-a63f76f7b688)
 
 <!-- BLOG-POST-LIST:END -->
 
