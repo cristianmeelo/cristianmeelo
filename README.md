@@ -39,7 +39,7 @@ const importantLinks = {
 <a href="https://cristianmeelo.medium.com/">See more posts...</a>
 
 <details>
-<summary>📈 Stats</summary>
+<summary>Stats 📈</summary>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianmeelo&theme=dracula)
