@@ -41,7 +41,6 @@ const importantLinks = {
 <details>
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianmeelo&theme=dracula)
 
