@@ -38,16 +38,13 @@ const importantLinks = {
 
 <a href="https://cristianmeelo.medium.com/">See more posts...</a>
 
-<table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=cristianmeelo&layout=compact&theme=react'>
-    </td>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=cristianmeelo&show_icons=true&theme=react'>
-    </td>
-  </row>
-</table>
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-<br></br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianmeelo&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianmeelo&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianmeelo&theme=dracula)
+
+</details>
