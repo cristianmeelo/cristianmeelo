@@ -7,7 +7,7 @@ I'm a Full Frontend dev focused on Web development, I'm 28 years old and I live 
 ```js
 const importantLinks = {
    📘 Medium: 'https:/medium.com/@cristianmeelo',
-   👨🏻‍💻 Portfolio: 'https://frontdev-cristianmelo.vercel.app/',
+   👨🏻‍💻 Portfolio: 'https://cursos.alura.com.br/vitrinedev/cristianmeelo',
    👋 Email: 'cristianmeelo@gmail.com',
 }
 ```
