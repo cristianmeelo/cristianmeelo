@@ -31,8 +31,9 @@ const importantLinks = {
 - [<>Assim</> ou <.div>Assado</.div> ⚛️](https://medium.com/@cristianmeelo/assim-ou-div-assado-div-%EF%B8%8F-9c10f527e362)
 - [Trip em Santa Maria do Herval 🎒](https://medium.com/@cristianmeelo/trip-em-santa-maria-do-herval-5a23fffe4f9f)
 - [3 Maneiras de Salvar Dados no Navegador ⚛️](https://medium.com/@cristianmeelo/3-maneiras-de-salvar-dados-no-navegador-%EF%B8%8F-a63f76f7b688)
-- [Cursos Froont-end Alura Abril 2023 ⚛️](https://medium.com/@cristianmeelo/cursos-front-end-alura-abril-2023-ce4c8547972a)
-- [Quais as tags de HTML aprender primeiro ?](https://medium.com/@cristianmeelo/quais-as-tags-de-html-aprender-primeiro-ab125173bb09)
+- [Cursos Front-end Alura Abril 2023 ⚛️](https://medium.com/@cristianmeelo/cursos-front-end-alura-abril-2023-ce4c8547972a)
+- [Quais as tags de HTML aprender primeiro ? ⚛️](https://medium.com/@cristianmeelo/quais-as-tags-de-html-aprender-primeiro-ab125173bb09)
+- [A Experiência do Usuário (UX) que Encanta! 💡💻🌐✨](https://medium.com/@cristianmeelo/a-experi%C3%AAncia-do-usu%C3%A1rio-ux-que-encanta-712dce00c394)
 
 <!-- BLOG-POST-LIST:END -->
 
