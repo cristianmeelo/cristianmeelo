@@ -18,7 +18,7 @@ const importantLinks = {
 
 <!-- SPOTIFY:START -->
 
-**Currently Coding & Listening to 🎧** <br></br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22bbin6t2wqgv4ut6gws6hzsi&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+**Currently Coding & Listening to 🎧 ** <br></br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22bbin6t2wqgv4ut6gws6hzsi&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
 <!-- SPOTIFY:END -->
 
