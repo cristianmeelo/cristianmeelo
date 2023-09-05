@@ -34,6 +34,7 @@ const importantLinks = {
 - [Cursos Front-end Alura Abril 2023 ⚛️](https://medium.com/@cristianmeelo/cursos-front-end-alura-abril-2023-ce4c8547972a)
 - [Quais as tags de HTML aprender primeiro ? ⚛️](https://medium.com/@cristianmeelo/quais-as-tags-de-html-aprender-primeiro-ab125173bb09)
 - [A Experiência do Usuário (UX) que Encanta! 💡💻🌐✨](https://medium.com/@cristianmeelo/a-experi%C3%AAncia-do-usu%C3%A1rio-ux-que-encanta-712dce00c394)
+- [Como Implementar um Leitor de Código de QR em seu Aplicativo React/Next ⏭️](https://medium.com/@cristianmeelo/como-implementar-um-leitor-de-c%C3%B3digo-de-qr-em-seu-aplicativo-react-next-386ef2fc5f6c)
 
 <!-- BLOG-POST-LIST:END -->
 
