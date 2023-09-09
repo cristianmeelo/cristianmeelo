@@ -51,10 +51,10 @@ const importantLinks = {
 </details>
 
    <h1>💥 Explore Minhas Criações Online! 💻</h1>
-   <p>
-      Você está prestes a entrar em um mundo de inovação e criatividade digital. Venha conferir os incríveis websites que eu criei para elevar sua experiência online a um novo patamar.    </p>
-
-        <h2>🌐 Websites de Destaque</h2>
+      <p>
+         Você está prestes a entrar em um mundo de inovação e criatividade digital. Venha conferir os incríveis websites que eu criei para elevar sua experiência online a um novo                patamar. 
+      </p>
+   <h2>🌐 Websites de Destaque</h2>
         <p>
             1. <a href="https://babirevisao.vercel.app/">Consultoria em TCC</a> - Descubra serviços de consultoria em TCC.
         </p>
