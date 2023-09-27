@@ -12,7 +12,7 @@ const importantLinks = {
 }
 ```
 
-<br></br><br></br>
+<br></br>
 
 <!-- TECHS-LIST:START -->
 
@@ -22,7 +22,7 @@ const importantLinks = {
 
 <!-- TECHS-LIST:END -->
 
-<br></br><br></br>
+<br></br>
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -45,11 +45,11 @@ const importantLinks = {
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianmeelo&theme=dracula) ![](http://github-   profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianmeelo&theme=dracula)
 </details>
 
-<br></br><br></br>
+<br></br>
 
 <!-- WEPAGES-LIST:START -->
 
-<h2>🌐 prominent websites </h2>
+<h2> Prominent Websites 🌐</h2>
    <p>
       <a href="https://babirevisao.vercel.app/">Consultoria em TCC</a> - Descubra serviços de consultoria em TCC.
    </p>
