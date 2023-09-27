@@ -26,7 +26,7 @@ const importantLinks = {
 
 <!-- BLOG-POST-LIST:START -->
 
-<h2> Last posts 📘 </h2>
+<h2> Last Posts 📘 </h2>
 
    - [3 Maneiras de Salvar Dados no Navegador ⚛️](https://medium.com/@cristianmeelo/3-maneiras-de-salvar-dados-no-navegador-%EF%B8%8F-a63f76f7b688)
    - [Cursos Front-end Alura Abril 2023 ⚛️](https://medium.com/@cristianmeelo/cursos-front-end-alura-abril-2023-ce4c8547972a)
