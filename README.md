@@ -2,7 +2,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-frontend--cristianmeelo-lightgrey)](https://frontdev-cristianmelo.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianmeelo/)](https://www.linkedin.com/in/cristian-melo/) [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@cristianmeelo/)](https://medium.com/@cristianmeelo/)
 
-I'm a Full Frontend dev focused on Web development, I'm 28 years old and I live in Brazil. I currently work at <a href="https://tothlifecare.com.br/">Tothlifecare</a>. I graduated in electronic engineering , I have a postgraduate degree in front-end development from <a href="https://www.anhanguera.com/?utm_source=google&utm_medium=cpc&utm_campaign=AEDU::L3::PerformanceMax::CursosLTV::TargetROAS::PIM&gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXc-oqkeLvw3vq5DQp5ycN2NIW41E4ySkMDncEGRs8s54OmX58ZVhrBoC8pIQAvD_BwE&gclsrc=aw.ds">Anhanguera</a> and I'm part of the #AluraVerso.
+I'm a Full Frontend dev focused on Web development, I'm 28 years old and I live in Brazil. I currently work at <a href="https://tothlifecare.com.br/">Tothlifecare</a>. I graduated in electronic engineering , I have a postgraduate degree in front-end development from <a href="https://www.anhanguera.com/?utm_source=google&utm_medium=cpc&utm_campaign=AEDU::L3::PerformanceMax::CursosLTV::TargetROAS::PIM&gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXc-oqkeLvw3vq5DQp5ycN2NIW41E4ySkMDncEGRs8s54OmX58ZVhrBoC8pIQAvD_BwE&gclsrc=aw.ds">Anhanguera</a> and I'm part of the <a href="https://www.alura.com.br/">#AluraVerso</a>.
 
 ```js
 const importantLinks = {
