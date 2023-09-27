@@ -25,11 +25,6 @@ const importantLinks = {
 **Last posts 📘**
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Como pegar dinamicamente o valor de Input no React ⚛️](https://medium.com/@cristianmeelo/como-pegar-valor-din%C3%A2micamente-de-input-no-react-1da514297b21)
-- [Trip em Vespasiano Corrêa 🎒](https://medium.com/@cristianmeelo/trip-em-vespasiano-corr%C3%AAa-8e74c2879e8d)
-- [<>Assim</> ou <.div>Assado</.div> ⚛️](https://medium.com/@cristianmeelo/assim-ou-div-assado-div-%EF%B8%8F-9c10f527e362)
-- [Trip em Santa Maria do Herval 🎒](https://medium.com/@cristianmeelo/trip-em-santa-maria-do-herval-5a23fffe4f9f)
 - [3 Maneiras de Salvar Dados no Navegador ⚛️](https://medium.com/@cristianmeelo/3-maneiras-de-salvar-dados-no-navegador-%EF%B8%8F-a63f76f7b688)
 - [Cursos Front-end Alura Abril 2023 ⚛️](https://medium.com/@cristianmeelo/cursos-front-end-alura-abril-2023-ce4c8547972a)
 - [Quais as tags de HTML aprender primeiro ? ⚛️](https://medium.com/@cristianmeelo/quais-as-tags-de-html-aprender-primeiro-ab125173bb09)
@@ -38,7 +33,7 @@ const importantLinks = {
 
 <!-- BLOG-POST-LIST:END -->
 
-<a href="[https://cristianmeelo.medium.com/](https://medium.com/me/stories/public)">See more posts...</a>
+<a href="https://medium.com/me/stories/public">See more posts...</a>
 
 <details>
 <summary>Stats 📈</summary>
