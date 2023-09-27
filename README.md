@@ -45,7 +45,7 @@ const importantLinks = {
 
 </details>
 
-   <h2>🌐 Websites de Destaque</h2>
+   <h2>🌐 prominent websites </h2>
         <p>
          <a href="https://babirevisao.vercel.app/">Consultoria em TCC</a> - Descubra serviços de consultoria em TCC.
         </p>
