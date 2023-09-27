@@ -38,7 +38,7 @@ const importantLinks = {
 
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://cristianmeelo.medium.com/">See more posts...</a>
+<a href="[https://cristianmeelo.medium.com/](https://medium.com/me/stories/public)">See more posts...</a>
 
 <details>
 <summary>Stats 📈</summary>
