@@ -1,6 +1,6 @@
 
-<img height="40" width="40" src="https://media.giphy.com/media/IRFQYGCokErS0/giphy.gif"/>
-<h1><font color="#61DAFB"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&random=false&width=435&lines=Hi+!+I%E2%80%99m+Cristian+Melo" alt="Typing SVG" /></a></font></h1>
+<img height="80" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN4bmYwMGR2d2k2eXZ3djl5eXhyMGR4eTh1eHp6eTgzY2g2anhzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CKvWVQ3fzS8iubVTn3/source.gif"/>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=Hi+!+I%E2%80%99m+Cristian+Melo" alt="Typing SVG" /></a></h1>
 
 
 
