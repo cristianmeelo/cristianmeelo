@@ -4,7 +4,7 @@
 
 
 
-[![Portfolio Badge](https://img.shields.io/badge/Website-frontend--cristianmeelo-lightgrey)](https://cursos.alura.com.br/vitrinedev/cristianmeelo) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianmeelo/)](https://www.linkedin.com/in/cristian-melo/) [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@cristianmeelo/)](https://medium.com/@cristianmeelo/)<!-- Profile Views Counter -->
+[![Portfolio Badge](https://img.shields.io/badge/Website-frontend--cristianmeelo-lightgrey)](https://cristian-melo-developer.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianmeelo/)](https://www.linkedin.com/in/cristian-melo/) [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@cristianmeelo/)](https://medium.com/@cristianmeelo/)<!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=cristianmeelo)
 
 I'm a Full Frontend dev focused on Web development, I'm 29 years old and I live in Brazil. I currently work at <a href="https://www.sicredi.com.br/home/">Sicredi 💚</a>. I graduated in electronic engineering , I have a postgraduate degree in front-end development from <a href="https://www.anhanguera.com/?utm_source=google&utm_medium=cpc&utm_campaign=AEDU::L3::PerformanceMax::CursosLTV::TargetROAS::PIM&gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXc-oqkeLvw3vq5DQp5ycN2NIW41E4ySkMDncEGRs8s54OmX58ZVhrBoC8pIQAvD_BwE&gclsrc=aw.ds">Anhanguera</a> and I'm part of the <a href="https://www.alura.com.br/">AluraVerso</a> and beeing mentored by <a href="https://felipepalma.dev.br/">Felipe Palma</a>.
@@ -12,7 +12,7 @@ I'm a Full Frontend dev focused on Web development, I'm 29 years old and I live 
 ```js
 const importantLinks = {
    📘 Medium: 'https:/medium.com/@cristianmeelo',
-   👨🏻‍💻 Portfolio: 'https://cursos.alura.com.br/vitrinedev/cristianmeelo',
+   👨🏻‍💻 Portfolio: 'https://cristian-melo-developer.vercel.app/',
    👋 Email: 'cristianmeelo@gmail.com',
 }
 ```
